@@ -1,0 +1,10 @@
+public class arithmatic{
+
+    public void sum(){
+        System.debug('sum result');
+    }
+
+    public void sub(){
+        system.debug('sub result');
+    }
+}
