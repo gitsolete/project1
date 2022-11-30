@@ -7,4 +7,8 @@ public class arithmatic{
     public void sub(){
         system.debug('sub result');
     }
+
+    public void mod(){
+        system.debug('mod result');
+    }
 }
