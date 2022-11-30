@@ -4,4 +4,8 @@ public class welcome{
     system.debug('welcome to solete');
   }
 
+  public void sum(){
+	system.debug('sum');
+  }
+
 }
