@@ -1,0 +1,7 @@
+public class welcome{
+  
+  public void display(){
+    system.debug('welcome to solete');
+  }
+
+}
